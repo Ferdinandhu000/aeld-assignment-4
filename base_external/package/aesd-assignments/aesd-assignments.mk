@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = e43b86f2a9b4381f31361ff1f9e29c3c93eb8354
+AESD_ASSIGNMENTS_VERSION = 9a5280baaf498cc44a650217692aab9bf70747cb
 # Use SSH so the automated test environment can authenticate with its deploy key.
 AESD_ASSIGNMENTS_SITE = git@github.com:Ferdinandhu000/aeld-assignment-3-and-later.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
